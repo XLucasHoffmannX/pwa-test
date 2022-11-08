@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/XLucasHoffmannX/pwa-test/static/css/main.073c9b0a.css",
-    "main.js": "/XLucasHoffmannX/pwa-test/static/js/main.5f03d459.js",
-    "static/js/787.94908732.chunk.js": "/XLucasHoffmannX/pwa-test/static/js/787.94908732.chunk.js",
-    "service-worker.js": "/XLucasHoffmannX/pwa-test/service-worker.js",
-    "static/media/logo.svg": "/XLucasHoffmannX/pwa-test/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
-    "index.html": "/XLucasHoffmannX/pwa-test/index.html",
-    "main.073c9b0a.css.map": "/XLucasHoffmannX/pwa-test/static/css/main.073c9b0a.css.map",
-    "main.5f03d459.js.map": "/XLucasHoffmannX/pwa-test/static/js/main.5f03d459.js.map",
-    "787.94908732.chunk.js.map": "/XLucasHoffmannX/pwa-test/static/js/787.94908732.chunk.js.map"
+    "main.css": "/pwa-test/static/css/main.073c9b0a.css",
+    "main.js": "/pwa-test/static/js/main.61c710e9.js",
+    "static/js/787.94908732.chunk.js": "/pwa-test/static/js/787.94908732.chunk.js",
+    "service-worker.js": "/pwa-test/service-worker.js",
+    "static/media/logo.svg": "/pwa-test/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/pwa-test/index.html",
+    "main.073c9b0a.css.map": "/pwa-test/static/css/main.073c9b0a.css.map",
+    "main.61c710e9.js.map": "/pwa-test/static/js/main.61c710e9.js.map",
+    "787.94908732.chunk.js.map": "/pwa-test/static/js/787.94908732.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.5f03d459.js"
+    "static/js/main.61c710e9.js"
   ]
 }
